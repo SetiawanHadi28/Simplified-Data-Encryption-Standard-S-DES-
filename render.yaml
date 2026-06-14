@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sdes-simulator
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
